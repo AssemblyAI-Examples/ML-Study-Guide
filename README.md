@@ -37,7 +37,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
 * [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 * [Kaggle Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
-## 6. Practise!
+## 6. Practice!
 
 Solve Challenges and build your own projects with datasets from [Kaggle.com](Kaggle.com).
 
